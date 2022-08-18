@@ -1,6 +1,6 @@
 # OTUS_05.homework
 
-:books: [Documentation](https://shurafairy777.github.io/OTUS_05.homework/index.html)
+:books: [Documentation](https://shurafairy.github.io/OTUS_05.homework/index.html)
 
 ## Задание 5
 
