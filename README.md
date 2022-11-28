@@ -1,8 +1,8 @@
-# OTUS_05.homework
+# OTUS_06.homework
 
-:books: [Documentation](https://shurafairy.github.io/OTUS_05.homework/index.html)
+:books: [Documentation](https://shurafairy.github.io/OTUS_06.homework/index.html)
 
-## Задание 5
+## Задание 6
 
 Спроектировать 2-мерную разреженную бесконечную матрицу, заполненную значениями по 
 умолчанию. Матрица должна хранить только занятые элементы - значения которых хотя бы раз 
