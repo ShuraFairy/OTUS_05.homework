@@ -92,8 +92,8 @@ public:
 	Matrix::iterator begin() { return data.begin(); };
 	Matrix::iterator end() { return data.end(); };
 
-	Matrix::iterator ñbegin() const{ return data.cbegin(); };
-	Matrix::iterator ñend() const { return data.cend(); };
+	Matrix::iterator cbegin() const{ return data.cbegin(); };
+	Matrix::iterator cend() const { return data.cend(); };
 private:
 	data_storage data;
 };
